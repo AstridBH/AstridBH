@@ -1,4 +1,4 @@
-![Banner](Banner.jpeg)
+![Banner](assets/Banner.jpeg)
 
 ## Hi there 👋
 
